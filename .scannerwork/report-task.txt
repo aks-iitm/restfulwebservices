@@ -1,0 +1,6 @@
+projectKey=restfulwebservices
+serverUrl=http://localhost:9000
+serverVersion=9.3.0.51899
+dashboardUrl=http://localhost:9000/dashboard?id=restfulwebservices
+ceTaskId=AX7oMorF1sveo6IcJjWB
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX7oMorF1sveo6IcJjWB
